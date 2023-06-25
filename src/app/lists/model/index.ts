@@ -1,5 +1,12 @@
-import { xenos, imperium, chaos, factions, factionFiles } from './factions'
-import type { Unit, Faction, Weapon, WEAPON_TYPES } from './factions'
+import {
+  xenos,
+  imperium,
+  chaos,
+  factions,
+  factionFiles,
+  WEAPON_TYPES,
+} from './factions'
+import type { Unit, Faction, Weapon } from './factions'
 
-export type { Unit, Faction, Weapon, WEAPON_TYPES }
-export { xenos, imperium, chaos, factions, factionFiles }
+export type { Unit, Faction, Weapon }
+export { xenos, imperium, chaos, factions, factionFiles, WEAPON_TYPES }
