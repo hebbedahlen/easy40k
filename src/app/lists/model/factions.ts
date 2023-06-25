@@ -15,8 +15,33 @@ export const imperium = {
 }
 
 export const factionFiles = {
+  adepta_sororitas: '1Zw6HBPeVkzWSvJ5B2HoPC5G8MwAH_dUb',
+  adeptus_custodes: '1rosuo8Z3APoDXpFvEyvyiUMz0J8zzcpZ',
+  adeptus_mechanicus: '1TBWohX-5Cfk4YO7vMORvyGIOdZGf3jLQ',
+  astra_militarum: '1kuhKJDFTJ7I3JbRSwmS65_Dm9LMO8zSF',
   black_templars: '1-9Wd6CEtbqCTD4f4KzAjXCzHN-xnK-_L',
+  blood_angels: '1hnGktNBw3FDrsQiHgJn-J5j6MrQM2VQE',
+  dark_angels: '159WnjY-ExRB83qxaClNinRfAINlWYyiJ',
+  deathwatch: '1dFhSQ7WVgadxpXAsfRgV1L10VHiV3Ywt',
+  grey_knights: '1ASoJ-is2oCreFaVHbS-3wL8hLIHQxfgt',
+  imperial_agents: '1XUruvFrcxQZgquUnM-GKSdcuhk1fGyfI',
+  imperial_knights: '1_nO3wFSmwA2evjuP9h1sr1h4BQwXDtBY',
+  space_marines: '1vSbVrCj5bMqFGvH3Fg38DT9VOSB7Gfxn',
+  space_wolves: '1Uxupu8OGA9w6lrllaSnMQiSvYzgJE4tK',
+  chaos_demons: '1ohtyOOTNG0iFnV7BN4rkAc5LHediEZrl',
+  chaos_knights: '1UTrvj7ssUU5KTwhAmmE9Kqsdbt06LgZE',
+  chaos_space_marines: '12v1DiC1rHU16C5vVkjJjRkGMTy0t7UYc',
+  death_guard: '1jD1RsF-j7ZalpXGJUXsp76SONOsa4tYy',
+  thousand_sons: '1u5pzDipKfPPj5GqQCU5VnXVAd6Fvqxsu',
+  world_eaters: '1vzNAXtOvGw-hSdF90Zf7FlWCph1mRQeu',
+  aeldari: '1QWQLSnaJXPqAi2yM-nz2BdsPv3roujXb',
+  drukhari: '1Jo8U_VOWZ408kXdv70vmbBtMlGNpvKYJ',
+  genestealer_cults: '1BrIZOR-Ki43F85QksYoUirgwqL9IDetq',
+  leagues_of_votann: '1HE94piNqgH-NNJYSuJr-FTLQi5Clb8Hi',
   necrons: '1-U6HOyaFLSbq5R42Es6DzcWPdSbAHF9_',
+  orks: '1rMZEOcW0-BGlkGTU0tHX1LNrUIkDUsCp',
+  tau_empire: '1F6Y5xY6979cLlZjEn8FfrtcWzyd3N3D4',
+  tyranids: '1H6cmeuUbmTwnM9SvoRjJ9OtvbbOue58N',
 }
 
 export const chaos = {
