@@ -7,7 +7,7 @@ export default function New() {
   return (
     <div>
       <h2 className="text-3xl mb-4">Imperium</h2>
-      <div className="grid  grid-cols-2 gap-4">
+      <div className="grid gap-4 xl:grid-cols-8 sm:grid-cols-4 grid-cols-2">
         {Object.entries(imperium).map(([key, value]) => (
           <Link
             key={key}
@@ -19,7 +19,7 @@ export default function New() {
         ))}
       </div>
       <h2 className="text-3xl  my-4">Chaos</h2>
-      <div className="grid  grid-cols-2 gap-4">
+      <div className="grid gap-4 xl:grid-cols-8 sm:grid-cols-4 grid-cols-2">
         {Object.entries(chaos).map(([key, value]) => (
           <Link
             key={key}
@@ -31,7 +31,7 @@ export default function New() {
         ))}
       </div>
       <h2 className="text-3xl my-4">Xenos</h2>
-      <div className="grid  grid-cols-2 gap-4">
+      <div className="grid gap-4 xl:grid-cols-8 sm:grid-cols-4 grid-cols-2">
         {Object.entries(xenos).map(([key, value]) => (
           <Link
             key={key}
